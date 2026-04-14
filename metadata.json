@@ -1,0 +1,5 @@
+{
+  "name": "Janseva Tracker",
+  "description": "AI-powered civic complaint management system for smarter cities.",
+  "requestFramePermissions": ["camera", "geolocation"]
+}
